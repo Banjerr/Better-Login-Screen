@@ -20,7 +20,13 @@ Simple plugin that provides the ability to customize the WP-login page with a cu
 
 ## Screenshots ##
 
-- Coming soon - 
+# Backend
+
+![Backend](https://dl.dropboxusercontent.com/s/uara7blx14pwc7e/5428C644-1E71-4C07-B1AA-0050808804B6-6566-0000177671F7E828.gif?dl=0)
+
+# Frontend
+
+![Frontend](https://dl.dropboxusercontent.com/s/xsv815fvxl4i6cg/994291A4-C1D4-4CD8-BA41-AB097FFF340C-6566-0000178914CCBE6C.gif?dl=0)
 
 ## Changelog ##
 
