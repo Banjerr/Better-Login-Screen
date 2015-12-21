@@ -82,6 +82,7 @@ if ( false !== $_REQUEST['updated'] ) : ?>
         display: block;
         height: 60px;
         width: 200px;
+        cursor: pointer;
     }
     .buttonStyle div .button1 {
         vertical-align: middle;
